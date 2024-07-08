@@ -2,7 +2,7 @@
 
 <p>Segundo desafio proposto pelo Programa ONE em parceiria com a Alura para demonstrar habilidades em Java, Spring Boot, JPA, e consumo de APIs REST.</p>
 
-[badge literalura](https://github.com/VitorPalmieri-DSPy/challenge-literAlura/assets/83787062/22bbe28f-117b-4c68-909d-97a692f7de76)
+![badge literalura](https://github.com/VitorPalmieri-DSPy/challenge-literAlura/assets/83787062/22bbe28f-117b-4c68-909d-97a692f7de76)
 
 
 
